@@ -27,7 +27,8 @@ y podemos ver igual la advertencia del disco
 
 y como dije que había solo un ID 1005, en ese se puede ver la clave que se utilizo
 
-![[the hackers labs/defensiva/santa log/login.png]]
+![image](https://github.com/user-attachments/assets/fefe747f-54fd-492d-94fb-bb8c33a94a78)
+
 
 y la advertencia del disco que mencione se ve un script que se utilizo
 
