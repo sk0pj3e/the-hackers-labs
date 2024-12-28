@@ -22,7 +22,8 @@ que se realizaron conexiones por el SSH con el ID: 1004 en todos, menos en uno q
 
 y podemos ver igual la advertencia del disco
 
-![[disco.png]]
+![image](https://github.com/user-attachments/assets/79ca8703-f29b-47a2-aa33-fca429f1095f)
+
 
 y como dije que había solo un ID 1005, en ese se puede ver la clave que se utilizo
 
