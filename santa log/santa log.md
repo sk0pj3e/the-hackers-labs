@@ -37,7 +37,8 @@ y la advertencia del disco que mencione se ve un script que se utilizo
 
 buscamos y vemos el código del .py y podemos ejecutar en powershell el código que esta ubicado en "tmp" 
 
-![[codigo flag.png]]
+![image](https://github.com/user-attachments/assets/fe74c810-ff04-4a4c-b5b1-8c75ae0d350a)
+
 
 nos pedirá una clave AES que es la que encontramos en el ID: 1005  que es la 
 > FTP25_SMB192.168.1.101
