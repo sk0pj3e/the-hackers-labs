@@ -15,7 +15,9 @@ y ahí podemos ver varios puntos importantes
 
 que por ejemplo los eventos FTP_attack que muestra ahí con el mismo ID
 y también podemos ver
-![[ssh.png]]
+
+![image](https://github.com/user-attachments/assets/9109eaa6-e022-4d7d-a26e-069ca67e51e6)
+
 que se realizaron conexiones por el SSH con el ID: 1004 en todos, menos en uno que fue en el 1005
 
 y podemos ver igual la advertencia del disco
