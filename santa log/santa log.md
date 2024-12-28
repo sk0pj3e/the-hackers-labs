@@ -32,7 +32,8 @@ y como dije que había solo un ID 1005, en ese se puede ver la clave que se util
 
 y la advertencia del disco que mencione se ve un script que se utilizo
 
-![[script.png]]
+![image](https://github.com/user-attachments/assets/17c35dd7-e608-4d3d-a75a-46a37ab98c47)
+
 
 buscamos y vemos el código del .py y podemos ejecutar en powershell el código que esta ubicado en "tmp" 
 
