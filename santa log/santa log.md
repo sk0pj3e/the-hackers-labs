@@ -3,7 +3,8 @@ Al descargar la maquina podemos ver que nos da la instrucciones y podemos ver ig
 login: santa / Cl@us
 
 al entrar nos vamos al visor de eventos 
-![[visor.png]]
+
+![image](https://github.com/user-attachments/assets/55e0393f-152c-49bf-a74d-2b70463fbc27)
 
 nos vamos a *registro de aplicaciones y servicios* > *santalogs*
 
