@@ -10,7 +10,8 @@ nos vamos a *registro de aplicaciones y servicios* > *santalogs*
 
 y ahí podemos ver varios puntos importantes
 
-![[FTP.png]]
+![image](https://github.com/user-attachments/assets/17dfef75-c21a-4b8f-9844-eb3e6d9eb521)
+
 
 que por ejemplo los eventos FTP_attack que muestra ahí con el mismo ID
 y también podemos ver
