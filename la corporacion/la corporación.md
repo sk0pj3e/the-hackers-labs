@@ -23,7 +23,8 @@ Apache HTTP Server 2.4.49 - Path Traversal & Remote Code Execution (RCE)
 como se que intentan ingresar por el ssh filtrare en wireshark por ese puerto:
 > ip.src == 192.168.1.100 && tcp.port == 22
 
-![[the hackers labs/defensiva/la corporacion/ssh.png]]
+![image](https://github.com/user-attachments/assets/4a9871bf-8545-40bb-8247-00b191a68cd1)
+
 
 nos muestra que son 10 intentos de ingreso por el puerto 22 o sea el SSH
 
