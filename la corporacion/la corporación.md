@@ -32,7 +32,8 @@ para ver que tipo de ataque se intento se utiliza:
 > http.request.method == GET && ip.src == 192.168.1.100
 
 nos muestra:
-![[ataque.png]]
+
+![image](https://github.com/user-attachments/assets/b8f04829-c4d1-48f0-b91a-57fe0f4d5a40)
 
 lo importante es: Host: attacker.internal\r\n 
 
