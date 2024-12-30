@@ -9,7 +9,8 @@ la instrucciones dicen:
 	
 	--> 0.086308	192.168.1.100	192.168.10.81	HTTP	100	GET /CVE-2021-41773.sh HTTP/1.1 
 
-![[wire1.png]]
+![image](https://github.com/user-attachments/assets/a5be5bc1-1574-4956-bf1b-a77ace65187b)
+
 
 buscando al vulnerabilidad que intentan explotar es esta:
 > https://www.exploit-db.com/exploits/50383  
