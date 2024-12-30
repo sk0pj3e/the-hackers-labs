@@ -16,7 +16,8 @@ buscando al vulnerabilidad que intentan explotar es esta:
 > https://www.exploit-db.com/exploits/50383  
  
 Apache HTTP Server 2.4.49 - Path Traversal & Remote Code Execution (RCE)
-![[exploity.png]]
+
+![image](https://github.com/user-attachments/assets/d1e07b90-5e89-45d2-8486-e536e646b467)
 
 
 como se que intentan ingresar por el ssh filtrare en wireshark por ese puerto:
