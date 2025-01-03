@@ -8,7 +8,7 @@ La pagina principal del puerto 80 es un apache2 sin mas, pero al hacer un gobust
 
 nos dio: 
 
-![[the hackers labs/avanzado/chocolate/gobuster.png]]
+![image](https://github.com/user-attachments/assets/58916336-6df0-4c2c-8c17-b8557361e0d7)
 
 y el mensaje de la pagina que dice:
 >  Bob, comprueba que la limpieza se estÃ© ejecutando automÃ¡ticamente en el sistema
