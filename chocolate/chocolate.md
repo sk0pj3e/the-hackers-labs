@@ -49,7 +49,7 @@ buscamos como escalar por man y encontramos aqui: https://gtfobins.github.io/gtf
 
 seguimos los dos comandos que da
 
-![[gt.png]]
+![image](https://github.com/user-attachments/assets/d9d1f758-6177-475b-b083-884af3fae0d6)
 
 ejecutamos 
 
