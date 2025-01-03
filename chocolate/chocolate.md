@@ -43,7 +43,7 @@ y conseguimos a contraseña
 
 ingresamos y al hacer un sudo -l nos muestra "man"
 
-![[the hackers labs/avanzado/chocolate/usuario2.png]]
+![image](https://github.com/user-attachments/assets/ec892b4c-1c16-463a-8ec9-3ff028905651)
 
 buscamos como escalar por man y encontramos aqui: https://gtfobins.github.io/gtfobins/man/#sudo
 
