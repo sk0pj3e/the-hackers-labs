@@ -1,6 +1,6 @@
 nmap: 192.168.1.129
 
-![[the hackers labs/avanzado/chocolate/nmap.png]]
+![image](https://github.com/user-attachments/assets/d17ebd57-216c-46bd-aece-555b03dab70c)
 
 La pagina principal del puerto 80 es un apache2 sin mas, pero al hacer un gobuster
 
