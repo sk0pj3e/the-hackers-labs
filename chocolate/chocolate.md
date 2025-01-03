@@ -37,7 +37,7 @@ la fuerza bruta:
 
      hydra 192.168.1.129 ftp -l secretote -P /usr/share/wordlists/rockyou.txt
 
-y conseguimos a contraseña
+y conseguimos la contraseña
 
 ![image](https://github.com/user-attachments/assets/315398aa-6fb4-45cb-84f2-fe51abed3802)
 
