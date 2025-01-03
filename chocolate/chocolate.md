@@ -68,7 +68,7 @@ por esto:
 
 pero como somos root ahora, podemos modificar la carpeta /etc/passwd y así sacar poder ver el contenido
 
-![[root2.png]]
+![image](https://github.com/user-attachments/assets/7478e77f-5edd-407d-8449-947e183831dc)
 
 nos devolvemos al usuario secretote y escalamos a root solo con su root
 y podremos leer el contenido de la flag
