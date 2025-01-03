@@ -20,7 +20,7 @@ le hacemos fuerza bruta:
 
 nos da la contraseña
 
-![[hydra.png]]
+![image](https://github.com/user-attachments/assets/835ab1aa-09f6-4c86-bf5d-67a9c4b776b7)
 
 entramos
 ![[the hackers labs/avanzado/chocolate/ssh.png]]
