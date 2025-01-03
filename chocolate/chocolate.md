@@ -23,7 +23,8 @@ nos da la contraseña
 ![image](https://github.com/user-attachments/assets/835ab1aa-09f6-4c86-bf5d-67a9c4b776b7)
 
 entramos
-![[the hackers labs/avanzado/chocolate/ssh.png]]
+
+![image](https://github.com/user-attachments/assets/952fd3d3-f5ec-4cdb-bcee-6c675408646e)
 
 al entrar hay un .sh pero que no ayuda mucho y lo otro es que el usuario secretote que es el otro usuario esta por FTP y no se me ocurre otra cosa que hacer para escalar que intentar con otra fuerza bruta pero cambio el ssh por el ftp
 
