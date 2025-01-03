@@ -28,7 +28,8 @@ entramos
 
 al entrar hay un .sh pero que no ayuda mucho y lo otro es que el usuario secretote que es el otro usuario esta por FTP y no se me ocurre otra cosa que hacer para escalar que intentar con otra fuerza bruta pero cambio el ssh por el ftp
 
-![[sh.png]]
+![image](https://github.com/user-attachments/assets/70e08ee4-0b9c-4d17-b32f-269d796099be)
+
 
 aquí se ve lo que contiene esa carpeta .sh y el ftp del otro usuario
 
