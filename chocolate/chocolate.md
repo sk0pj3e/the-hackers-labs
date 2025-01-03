@@ -72,10 +72,7 @@ pero como somos root ahora, podemos modificar la carpeta /etc/passwd y así saca
 
 nos devolvemos al usuario secretote y escalamos a root solo con su root
 y podremos leer el contenido de la flag
-![[user.png]]
+
+![image](https://github.com/user-attachments/assets/735950fb-8992-4073-a6f4-8cfb359fe438)
 
 y ahora tendríamos la maquina completada. muchas gracias por leer. 
-
-3e3fe08f2c9be56153e6e470199787c5 root
-
-833558da8260cd75d29d311240fd21e0 user 
