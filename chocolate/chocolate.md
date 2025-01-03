@@ -63,7 +63,8 @@ y seremos root y ahora podemos sacar la flag de root
 la otra flag esta en la carpeta bob pero el permiso solo es para root, pero no podemos acceder a la carpeta bob con root
 
 por esto: 
-![[bloqueo.png]]
+
+![image](https://github.com/user-attachments/assets/b02e1473-ed64-4afb-b798-468fc5f43cc2)
 
 pero como somos root ahora, podemos modificar la carpeta /etc/passwd y así sacar poder ver el contenido
 
