@@ -39,7 +39,7 @@ la fuerza bruta:
 
 y conseguimos a contraseña
 
-![[the hackers labs/avanzado/chocolate/ftp.png]]
+![image](https://github.com/user-attachments/assets/315398aa-6fb4-45cb-84f2-fe51abed3802)
 
 ingresamos y al hacer un sudo -l nos muestra "man"
 
