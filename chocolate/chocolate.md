@@ -53,7 +53,7 @@ seguimos los dos comandos que da
 
 ejecutamos 
 
-![[the hackers labs/avanzado/chocolate/root.png]]
+![image](https://github.com/user-attachments/assets/dee1dc23-ab3c-4259-96eb-cdaf51441633)
 
 dentro del man man colocamos: 
 > !/bin/sh
