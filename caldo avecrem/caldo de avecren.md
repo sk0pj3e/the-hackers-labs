@@ -31,7 +31,8 @@ como se ve en el código podemos ver que que hay un 'id' o sea que al lanzarlo p
 ![image](https://github.com/user-attachments/assets/08efb840-176e-4bc5-a4a2-d857c32600f0)
 
 al igual que whoami porque podemos ver que nos muestra el usuario caldo
-![[caldo1.png]]
+
+![image](https://github.com/user-attachments/assets/b2d70004-c3cb-491a-991b-12f2b6479221)
 
 ahora vamos a lanzar una reverse y colocar el puerto en escucha
 
