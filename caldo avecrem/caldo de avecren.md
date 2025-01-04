@@ -54,7 +54,7 @@ y en un blog chino https://cloud.tencent.com.cn/developer/information/%E5%A6%82%
 
 que si lo ejecutamos nos mandara aquí
 
-![[the hackers labs/avanzado/caldo de avecren/ejecucion1.png]]
+![image](https://github.com/user-attachments/assets/7b39f3a0-a611-4b64-a200-4b9e035c9335)
 
 colocamos
 
