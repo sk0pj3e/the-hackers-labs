@@ -28,7 +28,7 @@ de la misma pagina de explicacion encontre este comando
 
 como se ve en el código podemos ver que que hay un 'id' o sea que al lanzarlo por el ejecutable que hay ahí nos debería mostrar usuarios y grupo. 
 
-![[grupo.png]]
+![image](https://github.com/user-attachments/assets/08efb840-176e-4bc5-a4a2-d857c32600f0)
 
 al igual que whoami porque podemos ver que nos muestra el usuario caldo
 ![[caldo1.png]]
