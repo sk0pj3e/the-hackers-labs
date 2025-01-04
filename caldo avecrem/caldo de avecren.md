@@ -9,7 +9,7 @@ al entrar al puerto 80 no hay nada mas que un apache, así que ingresamos por el
 
 vemos que podemos colocar muchas cosas ahí, así que probé inyectando un XSS
 
-![[prueba2.png]]
+![image](https://github.com/user-attachments/assets/bad02228-eb0e-4ffd-bb19-5f9b5282d3aa)
 
 y funciona la inyección XSS 
 
