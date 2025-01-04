@@ -4,7 +4,8 @@ nmap: 192.168.1.130
 
 al entrar al puerto 80 no hay nada mas que un apache, así que ingresamos por el puerto 8089
 
-![[the hackers labs/avanzado/caldo de avecren/pagina principal.png]]
+![image](https://github.com/user-attachments/assets/a3aa1ef4-3c4b-431a-ab69-5d1d3cd2cd5e)
+
 
 vemos que podemos colocar muchas cosas ahí, así que probé inyectando un XSS
 
