@@ -20,7 +20,7 @@ una explicación rápida y buena con ejemplos: https://book.hacktricks.wiki/en/p
 
 y funciona, porque nos devuelve el valor 
 
-![[ssti2.png]]
+![image](https://github.com/user-attachments/assets/9550e161-fc82-441f-b8cd-08beb3b84dca)
 
 de la misma pagina de explicacion encontre este comando
 
