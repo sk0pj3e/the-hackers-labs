@@ -1,6 +1,6 @@
 nmap: 192.168.1.130
 
-![[the hackers labs/avanzado/caldo de avecren/nmap.png]]
+![image](https://github.com/user-attachments/assets/04153be9-dbfa-42ee-9f66-3fdf4d03ee92)
 
 al entrar al puerto 80 no hay nada mas que un apache, así que ingresamos por el puerto 8089
 
