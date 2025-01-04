@@ -43,7 +43,7 @@ lanzamos:
 
 ![image](https://github.com/user-attachments/assets/4cc43c1b-4349-4145-9bea-4e694d069db5)
 
-y estamos dentro y también de primero nos da la flag de usuario
+ estamos dentro y también de primero nos da la flag de usuario
 
 ![image](https://github.com/user-attachments/assets/2598a2d8-c5a3-4007-b867-73394a338c07)
 
