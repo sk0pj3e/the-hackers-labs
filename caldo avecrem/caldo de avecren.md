@@ -45,7 +45,7 @@ lanzamos:
 
 y estamos dentro y también de primero nos da la flag de usuario
 
-![[user1.png]]
+![image](https://github.com/user-attachments/assets/2598a2d8-c5a3-4007-b867-73394a338c07)
 
 al hacer un sudo -l  vemos que a nivel de sudoers podemos ejecutar el binario pydoc3 para generar documentación a partir de módulos de Python.
 y en un blog chino https://cloud.tencent.com.cn/developer/information/%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8Blinux%E4%B8%8A%E7%9A%84ftp que se tradujo a español encontré este comando
