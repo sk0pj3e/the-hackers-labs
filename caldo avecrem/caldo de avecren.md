@@ -16,7 +16,7 @@ y funciona la inyección XSS
 ahora probaremos un ataque SSTI 
 una explicación rápida y buena con ejemplos: https://book.hacktricks.wiki/en/pentesting-web/pocs-and-polygloths-cheatsheet/index.html?highlight=%7B%7B7*7%7D%7D#basic-tests-8
 
-![[ssti.png]]
+![image](https://github.com/user-attachments/assets/3e4deccc-01b6-4302-b423-94a88aa45544)
 
 y funciona, porque nos devuelve el valor 
 
