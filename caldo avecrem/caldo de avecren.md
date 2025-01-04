@@ -63,13 +63,6 @@ colocamos
 
 nos saldremos y haremos un bash -p
 
-![[the hackers labs/avanzado/caldo de avecren/root.png]]
+![image](https://github.com/user-attachments/assets/3a259183-b4d5-4226-904c-c3054d17f8e9)
 
 y seremos root! 
-
-
-
-
-
-f3e431cd1129e9879e482fcb2cc151e8 user
-44df858281024b69291f503f8921136c root
