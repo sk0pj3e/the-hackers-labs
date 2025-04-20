@@ -96,7 +96,7 @@ lanzamos:
 
 y obtenemos 
 
-![[the hackers labs/avanzado/pacharan/test10.png]]
+![image](https://github.com/user-attachments/assets/0ae3d987-5a41-410c-9099-9acfcc01049d)
 
 ahora vamos a escalar privilegios, vamos a crear una carpeta con los exploit que necesitaremos para escalar y aquí hay una explicación sobre la escalada: https://www.tarlogic.com/es/blog/explotacion-seloaddriverprivilege/
 
