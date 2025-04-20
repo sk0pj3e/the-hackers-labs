@@ -31,7 +31,7 @@ ahora tenemos un usuario y una posible contraseña, lanzamos:
 
 
 
-![[the hackers labs/avanzado/pacharan/test4.png]]
+![image](https://github.com/user-attachments/assets/2bc577e4-de24-44e5-87d2-84c4db6844df)
 
 ahora nos dio un "ah.txt" lo pasamos a nuestro terminal 
 
