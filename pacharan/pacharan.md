@@ -3,7 +3,8 @@ sudo arp-scan --interface=eth1 --localnet
 192.168.1.148
 
 nmap: 
-![[the hackers labs/avanzado/pacharan/test1.png]]
+
+![image](https://github.com/user-attachments/assets/14a62243-adf8-4284-9f40-2537cdd9b605)
 
 --------
 
