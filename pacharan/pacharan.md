@@ -66,7 +66,7 @@ lanzamos:
 
      crackmapexec smb 192.168.1.148 -u user.txt -p ah.txt
 
-![[the hackers labs/avanzado/pacharan/test7.png]]
+![image](https://github.com/user-attachments/assets/e934eaaa-d8a3-48d0-9c02-ad1570ca12ad)
 
 obtenemos: PACHARAN.THL\Whisky:MamasoyStream2er@ 
 
