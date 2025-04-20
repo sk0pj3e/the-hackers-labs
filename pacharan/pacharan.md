@@ -76,7 +76,7 @@ ahora que tenemos la contraseña podemos usar "rpcclient" otra vez pero con la c
 
 nos da: 
 
-![[the hackers labs/avanzado/pacharan/test8.png]]
+![image](https://github.com/user-attachments/assets/03369f0d-1684-4ddd-b2dd-8dec5aaab65e)
 
 donde marque puede que sea una contraseña. 
 
