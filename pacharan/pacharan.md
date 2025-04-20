@@ -15,7 +15,7 @@ lanzamos:
      smbmap -H 192.168.1.148 -u invitado
 
 
-![[the hackers labs/avanzado/pacharan/test2.png]]
+![image](https://github.com/user-attachments/assets/1d33d6d6-deba-47fe-b60d-43316c9e5117)
 
 y nos importa los dos que dicen READ ONLY y volvemos a lanzar un smbmap pero utilizando los IPC:
 
