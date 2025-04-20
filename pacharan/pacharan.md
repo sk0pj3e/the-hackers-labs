@@ -23,7 +23,7 @@ y nos importa los dos que dicen READ ONLY y volvemos a lanzar un smbmap pero uti
 
 nos da un txt con: Pericodelospalotes6969
 
-![[the hackers labs/avanzado/pacharan/test3.png]]
+![image](https://github.com/user-attachments/assets/2bc4068f-81e0-4b9b-b8ac-51e4a17df294)
 
 ahora tenemos un usuario y una posible contraseña, lanzamos:
 
