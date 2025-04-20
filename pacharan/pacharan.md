@@ -41,7 +41,7 @@ ahora vamos a enumerar los usuarios con "rpcclient" con el de Orujo
 
      rpcclient -U 'Orujo' 192.168.1.148 
 
-![[the hackers labs/avanzado/pacharan/test6.png]]
+![image](https://github.com/user-attachments/assets/974c54b7-ace5-4d28-8756-2df6318e73d7)
 
 ahora todos esos nombres los vamos a meter a un txt. 
 
