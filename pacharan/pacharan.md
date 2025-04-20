@@ -35,7 +35,7 @@ ahora tenemos un usuario y una posible contraseña, lanzamos:
 
 ahora nos dio un "ah.txt" lo pasamos a nuestro terminal 
 
-![[the hackers labs/avanzado/pacharan/test5.png]]
+![image](https://github.com/user-attachments/assets/784ad59c-4333-4c12-8ff3-c7bc196762c1)
 
 ahora vamos a enumerar los usuarios con "rpcclient" con el de Orujo
 
